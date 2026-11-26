@@ -1,0 +1,10 @@
+{
+  "name": "solvelang-verification-proof",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test fixture for the SolveLang Verification check",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
